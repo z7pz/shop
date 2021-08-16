@@ -15,7 +15,7 @@ Please adhere to this project's `code of conduct`.
 
   
 ## 🛠 Languages and framworks we are using
-....
+...
 
   
 ## ⚔ Authors
