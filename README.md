@@ -23,6 +23,7 @@ Please adhere to this project's `code of conduct`.
 - [@z7pz](https://www.github.com/z7pz)
 - [@Ameriq8](https://www.github.com/Ameriq8)
 - [@AbdullahSH2004](https://www.github.com/AbdullahSH2004)
+- [@『𝐍𝐓』 𓆩 D R A X 𓆪#0001](https://www.github.com/draxtech)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
